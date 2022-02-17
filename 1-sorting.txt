@@ -1,0 +1,7 @@
+Accept three numbers from user (a, b, c).
+If a < b then go to step 3 else go to step 7.
+If a < c then go to step 4 else go to step 6.
+If b < c then go to step 8 else go to step 5.
+interchange b and c and go to step 8.
+interchange a and b and go to step 5.
+print a, b, c.
